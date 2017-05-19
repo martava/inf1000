@@ -1,0 +1,3 @@
+a) Innleveringa denne veka var ganske utfordrande då eg gjorde den for to veker sidan, fordi eg lærte meg å lesa inn ei fil ved hjelp av google.  No har me gått gjennom det meste stoffet, så når eg dobbeltsjekka alle oppgåvene så gjekk det fint.
+b) Eg er usikker på kor lang tid eg brukte på desse oppgåvene, men trur det ligg på 2-3 timar.
+c) Alle oppgåvene gir resultatet som det blir spurd etter, men Innlesing-oppgåva kunne blitt førbetra med å t.d. gjera det mogleg å finne alle orda som er like, uavhengig av store og små bokstavar. Dvs at omm brukaren søkte etter "winnie-the-pooh", så ville programmet finne både "WINNIE-THE-POOH" og "Winnie-the-Pooh" til å vera like. 

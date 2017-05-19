@@ -1,0 +1,4 @@
+a) Grensesnittet til ein klasse er ein oversikt over dei operasjonane ein brukar av klassen kan utføra på objekta.
+Implementasjonen er korleis operasjonane utførast i i Java. 
+
+b) Instansmetode er metoder og variabler som høyrer til eit objekt, medan variablene i ein statisk metode høyrer til heile klassen.
